@@ -1,4 +1,4 @@
-# STAR WARS Starships APIA
+# STAR WARS Starships API
 
 Foobar is a Python library for dealing with word pluralization.
 
