@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Slave I",
+        "hyperdrive": 0.7,
+        "atmosphericSpeed": 1000,
+        "affiliation_id": 2
+    },
+    {
+        "name": "Millenium Falcon",
+        "hyperdrive": 0.5,
+        "atmosphericSpeed": 1050,
+        "affiliation_id": 1
+    },
+    {
+        "name": "Delta-7B",
+        "hyperdrive": 1.0,
+        "atmosphericSpeed": 1260,
+        "affiliation_id": 1
+    },
+    {
+        "name": "Tie Advanced X1",
+        "hyperdrive": 4.0,
+        "atmosphericSpeed": 1200,
+        "affiliation_id": 2
+    },
+    {
+        "name": "Droid tri-fighter",
+        "hyperdrive": 9999,
+        "atmosphericSpeed": 1180,
+        "affiliation_id": 3
+    },
+    {
+        "name": "Agressive Reconnaissance-170",
+        "hyperdrive": 1.5,
+        "atmosphericSpeed": 1000,
+        "affiliation_id": 2
+    },
+    {
+        "name": "T-65 X-wing",
+        "hyperdrive": 1,
+        "atmosphericSpeed": 1050,
+        "affiliation_id": 2
+    },
+    {
+        "name": "Imperial-class Star Destroyer",
+        "hyperdrive": 2.0,
+        "atmosphericSpeed": 975,
+        "affiliation_id": 2
+    }
+]
