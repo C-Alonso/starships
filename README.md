@@ -4,8 +4,8 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
-The application is deployed on Heroku:
-[https://dashboard.heroku.com/apps/starships-ag](https://dashboard.heroku.com/apps/starships-ag)
+The application is deployed on **Heroku**:
+**[https://dashboard.heroku.com/apps/starships-ag](https://dashboard.heroku.com/apps/starships-ag)**
 
 If you prefer to run it locally:
 
