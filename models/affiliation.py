@@ -15,6 +15,7 @@ class AffiliationModel(db.Model):
 
     def json(self):
         return {
+            "id": self.id
             "name": self.name,
             "starships": [starship.json()
                           for starship
@@ -23,6 +24,7 @@ class AffiliationModel(db.Model):
 
     def json_name(self):
         return {
+            "id": self.id,
             "name": self.name
         }
 

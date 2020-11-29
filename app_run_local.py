@@ -26,7 +26,6 @@ api = Api(app)
 @app.before_first_request
 def create_tables():
     db.create_all()
-    #if not os.path.isfile("data.db"):  # True if DB hasn't been created.
     # Load the DB if it's empty.
     if not StarshipModel.query.all():        
         create_affiliations()
