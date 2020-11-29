@@ -1,6 +1,7 @@
 # STAR WARS Starships API
 
-Foobar is a Python library for dealing with word pluralization.
+This application returns the Starships from Star Wars, ordered by hyperdrive.
+Built with *Flask*, *Flask RESTful*, *Flask JWT*, and *Flask-SQLAlchemy*.
 
 ## Installation
 
